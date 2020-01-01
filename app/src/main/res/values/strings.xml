@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="but_dot_label">.</string>
+    <string name="but_4_label">4</string>
+    <string name="but_8_label">8</string>
+    <string name="but_9_label">9</string>
+    <string name="but_7_label">7</string>
+</resources>
